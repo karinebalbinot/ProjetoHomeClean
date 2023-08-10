@@ -31,4 +31,5 @@ Home Clean é um aplicativo voltado a serviços de limpeza!
 <br>
 
 ![Demo7](imagens/telaAgendamento.PNG)
+
 <br>
