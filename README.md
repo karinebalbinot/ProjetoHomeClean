@@ -4,8 +4,12 @@ Home Clean é um aplicativo voltado a serviços de limpeza!
 
 <br>
 
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Tecnologias Utilizadas
+<br>
+
 ![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![NODEJS](https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%23F7DF1E)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
