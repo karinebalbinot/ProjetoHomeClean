@@ -36,6 +36,6 @@ Este aplicativo foi desenvolvido durante o segundo semestre do curso técnico de
 ![Demo6](imagens/telaAgendamento2.PNG)
 <br>
 
-![Demo7](imagens/telaAgendamento.PNG)
+![Demo7](imagens/telaCalendário.PNG)
 
 <br>
